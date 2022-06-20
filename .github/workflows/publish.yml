@@ -30,7 +30,7 @@ jobs:
           folder: dist
           target-folder: 'tutorial'
 # need an access token for this          
-#          repository-name: z3prover/z3prover.github.io
+#          repository-name: NikolajBjorner/z3prover.github.io
           clean: false
           force: false
           dry-run: false
